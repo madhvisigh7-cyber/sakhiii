@@ -1,0 +1,6 @@
+{
+  "name": "Sakhi Shringar - Premium Jewellery Store",
+  "description": "Premium, modern e-commerce destination for Indian ethnic, oxidised, and trendy jewellery and accessories by Sakhi Shringar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
